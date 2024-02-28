@@ -3,10 +3,10 @@
 ## This exercise has been part of a selection process for the Data Analyst position at a Virtual Casino
 
 ## Visit the interactive dashboard at Tableau Public 
-https://public.tableau.com/app/profile/santiago.candia/viz/SantiagoCandiaVirtualCasinoAssestmentTest/Dashboard
+https://public.tableau.com/views/VirtualCasinoAssestmentTest/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Dashboard
-![image](https://public.tableau.com/app/profile/santiago.candia/viz/VirtualCasinoAssestmentTest/Dashboard)
+![image](https://github.com/santiagocandia/data-viz/blob/main/virtual-casino-test/Virtual%20Casino%20Assestment%20Test.jpg)
 
 ## Useful Links
 ** Dashboard Desing **
