@@ -5,6 +5,9 @@
 ## Dashboard
 ![image](https://github.com/santiagocandia/data-viz/blob/main/virtual-casino-test/Virtual%20Casino%20Assestment%20Test.jpg)
 
+## Visit the interactive dashboard at Tableau Public 
+https://public.tableau.com/app/profile/santiago.candia/viz/SantiagoCandiaVirtualCasinoAssestmentTest/Dashboard
+
 ## Useful Links
 ** Dashboard Desing **
 https://www.youtube.com/watch?v=r2WvjRjTPrw
