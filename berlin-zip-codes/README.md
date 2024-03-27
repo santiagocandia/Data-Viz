@@ -1,6 +1,8 @@
 # Berlin's ZIP codes
 
-## This exercise has been part of a selection process for the Data Analyst position at a Virtual Casino
+## This project aims to:
+1) Create a database of ZIP codes grouped by Boroughs and Neighborhoods of the city of Berlin. It did not exist at the time.
+2) Develop a dashboard that simplifies the identification of ZIP codes, Boroughs and Neiborhoods of Berlin
 
 ## Visit the interactive dashboard at Tableau Public 
 https://public.tableau.com/app/profile/santiago.candia/viz/BerlinsZIPcodes_/BerlinsZIPcodes
@@ -10,7 +12,6 @@ https://public.tableau.com/app/profile/santiago.candia/viz/BerlinsZIPcodes_/Berl
 
 
 ## Useful Links
-** Dashboard Desing **
-https://www.youtube.com/watch?v=r2WvjRjTPrw
+
 
 
