@@ -6,7 +6,8 @@
 https://public.tableau.com/app/profile/santiago.candia/viz/BerlinsZIPcodes_/BerlinsZIPcodes
 
 ## Dashboard
-![image](https://github.com/santiagocandia/data-viz/assets/16913295/ba00cdfb-0951-44cb-84c7-406051643fcd)
+![image](https://github.com/santiagocandia/data-viz/assets/16913295/a3db4f7a-1d1e-42c2-9e32-f402cbaf7fb1)
+
 
 ## Useful Links
 ** Dashboard Desing **
