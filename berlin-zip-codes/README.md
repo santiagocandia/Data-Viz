@@ -1,8 +1,8 @@
 # Berlin's ZIP codes
 
 ## This project aims to:
-1) Create a database of ZIP codes grouped by Boroughs and Neighborhoods of the city of Berlin. It did not exist at the time.
-2) Develop a dashboard that simplifies the identification of ZIP codes, Boroughs and Neiborhoods of Berlin
+1) Create a database of ZIP codes grouped by Boroughs and Neighborhoods of the Berlin city. It did not exist at the time.
+2) Develop a dashboard that simplifies the identification of ZIP codes, Boroughs and Neiborhoods of Berlin city.
 
 ## Visit the interactive dashboard at Tableau Public 
 https://public.tableau.com/app/profile/santiago.candia/viz/BerlinsZIPcodes_/BerlinsZIPcodes
