@@ -1,11 +1,11 @@
 # Berlin's ZIP codes
 
 ## Motivation
-The lack of an official (or unofficial) database that groups ZIP codes by boroughs and neighborhoods has motivated me to search for this information and develop a database.
+The lack of an official (or unofficial) dataset that groups ZIP codes by boroughs and neighborhoods has motivated me to search for this information and develop a database.
 
 ## Target:
-1) Create a database of ZIP codes grouped by Boroughs and Neighborhoods of the Berlin city. It did not exist at the time.
-2) Develop a dashboard that simplifies the identification of ZIP codes, Boroughs and Neiborhoods of Berlin city.
+1) Develop a dataset of ZIP codes grouped by Boroughs and Neighborhoods of the Berlin city. It did not exist at the time.
+2) Build a dashboard that simplifies the identification of ZIP codes, Boroughs and Neiborhoods of Berlin city.
 
 ## Visit the interactive dashboard at Tableau Public 
 https://public.tableau.com/app/profile/santiago.candia/viz/BerlinsZIPcodes_/BerlinsZIPcodes
