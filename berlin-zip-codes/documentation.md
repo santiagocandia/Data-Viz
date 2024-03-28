@@ -1,4 +1,4 @@
-# Documentation of Berlin's ZIP codes
+# Berlin's ZIP codes Documentation
 
 ## Motivation
 The lack of an official (and unofficial) database that groups ZIP codes by boroughs and neighborhoods has motivated me to search for this information and develop a database.
