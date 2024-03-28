@@ -1,7 +1,7 @@
 # Berlin's ZIP codes
 
 ## Motivation
-The lack of an official (and unofficial) database that groups ZIP codes by boroughs and neighborhoods has motivated me to search for this information and develop a database.
+The lack of an official (or unofficial) database that groups ZIP codes by boroughs and neighborhoods has motivated me to search for this information and develop a database.
 
 ## Target:
 1) Create a database of ZIP codes grouped by Boroughs and Neighborhoods of the Berlin city. It did not exist at the time.
