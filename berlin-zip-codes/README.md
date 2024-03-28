@@ -1,6 +1,6 @@
 # Berlin's ZIP codes
 
-## This project aims to:
+## Target:
 1) Create a database of ZIP codes grouped by Boroughs and Neighborhoods of the Berlin city. It did not exist at the time.
 2) Develop a dashboard that simplifies the identification of ZIP codes, Boroughs and Neiborhoods of Berlin city.
 
@@ -12,9 +12,9 @@ https://public.tableau.com/app/profile/santiago.candia/viz/BerlinsZIPcodes_/Berl
 
 ## Useful Links
 
-https://www.suche-postleitzahl.org/land/berlin.13f#modal/
+https://www.suche-postleitzahl.org/land/berlin.13f#modal
 
-https://en.wikipedia.org/wiki/Boroughs_and_neighborhoods_of_Berlin/
+https://en.wikipedia.org/wiki/Boroughs_and_neighborhoods_of_Berlin
 
-https://de.wikipedia.org/wiki/Verwaltungsgliederung_Berlins/
+https://de.wikipedia.org/wiki/Verwaltungsgliederung_Berlins
 
