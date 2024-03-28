@@ -11,7 +11,7 @@ The lack of an official (or unofficial) dataset that groups ZIP codes by borough
 https://public.tableau.com/app/profile/santiago.candia/viz/BerlinsZIPcodes_/BerlinsZIPcodes
 
 ## Dashboard
-![image](https://github.com/santiagocandia/data-viz/assets/16913295/a3db4f7a-1d1e-42c2-9e32-f402cbaf7fb1)
+![image](https://github.com/santiagocandia/data-viz/assets/16913295/744cfa29-b2e5-4412-9aa8-96dcd778e679)
 
 ## The dataset
 - To develop the datasets different Internet sources have been consulted and the results have been controlled by analyzing each zip code individually. There are two csv files: 
