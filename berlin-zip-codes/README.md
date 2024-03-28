@@ -13,8 +13,8 @@ https://public.tableau.com/app/profile/santiago.candia/viz/BerlinsZIPcodes_/Berl
 ## Dashboard
 ![image](https://github.com/santiagocandia/data-viz/assets/16913295/a3db4f7a-1d1e-42c2-9e32-f402cbaf7fb1)
 
-## The DB
-- To develop the database, different Internet sources have been consulted and the results have been controlled by analyzing each zip code individually. There are two csv files: 
+## The dataset
+- To develop the datasets different Internet sources have been consulted and the results have been controlled by analyzing each zip code individually. There are two csv files: 
 - The file1.csv file includes all neighborhoods in the same column, so you will find repeated zip codes for different neighborhoods. 
 - The file2.csv file has separate columns for the main neighborhood and the other neighborhoods. In some cases, the same zip code is valid for more than 3 different neighborhoods, but this project only includes the top 3 neighborhoods by zip code.
 - In all cases, the criterion for choosing the main neighborhood was to assign the zip code according to the geographical space it covers. The zip code was assigned to the neighborhood in which it covers the largest geographic space.
