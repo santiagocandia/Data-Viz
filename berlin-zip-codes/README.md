@@ -1,4 +1,4 @@
-# Berlin's ZIP codes
+# Berlin's postal codes
 
 ## Motivation
 The lack of an official (or unofficial) dataset that groups postal codes by boroughs and neighborhoods of Berlin has motivated me to search for this information and develop a dataset.
