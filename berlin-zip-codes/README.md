@@ -7,6 +7,9 @@ The lack of an official (or unofficial) dataset that groups postal codes by boro
 1) Develop a dataset of postal codes grouped by boroughs and neighborhoods of the Berlin.
 2) Build a dashboard that simplifies the identification of ZIP codes, boroughs and neiborhoods of the city.
 
+## Kaggle:
+https://www.kaggle.com/datasets/santiagocandia/berlin-zip-codes-grouped-by-borough-and-neighborhood
+
 ## Visit the interactive dashboard at Tableau Public 
 https://public.tableau.com/app/profile/santiago.candia/viz/Berlinspostalcodes/Berlinspostalcodes
 
