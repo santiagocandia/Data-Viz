@@ -8,10 +8,11 @@ The lack of an official (or unofficial) dataset that groups ZIP codes by borough
 2) Build a dashboard that simplifies the identification of ZIP codes, Boroughs and Neiborhoods of Berlin city.
 
 ## Visit the interactive dashboard at Tableau Public 
-https://public.tableau.com/app/profile/santiago.candia/viz/BerlinsZIPcodes_/BerlinsZIPcodes
+https://public.tableau.com/app/profile/santiago.candia/viz/BerlinsZIPcodes/BerlinsZIPcodes
 
 ## Dashboard
-![image](https://github.com/santiagocandia/data-viz/assets/16913295/744cfa29-b2e5-4412-9aa8-96dcd778e679)
+![image](https://github.com/santiagocandia/data-viz/assets/16913295/64d5a3e7-8915-4bb2-af11-46ffd24d21be)
+
 
 ## The dataset
 - To develop the datasets different Internet sources have been consulted and the results have been controlled by analyzing each zip code individually. There are two csv files: 
